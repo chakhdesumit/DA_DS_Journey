@@ -1,50 +1,21 @@
 # DA_DS_Journey
 
-My journey to becoming a Data Analyst.  
-This repository contains my learning and practice work in Python, Pandas, and Data Analysis.
+My journey to becoming a Data Analyst.
 
----
+##  What this repository contains:
+- Python Basics
+- Pandas (Data Analysis)
+- Data Visualization (Matplotlib & Seaborn)
 
-## 📂 Folder Structure
+##  Folder Overview:
+- 01_Python → Python fundamentals
+- 02_Pandas → Data analysis using Pandas
+- 03_Data_Visualization → Visualization practice
+- datasets → Datasets used across projects
 
-### 🔹 01_Python
-Covers Python basics:
-- Syntax
-- Variables
-- Data Types
-- Loops
-- Functions
+##  Goal:
+To build strong fundamentals and transition into a Data Analyst role.
 
----
-
-### 🔹 02_Pandas
-Covers data analysis using Pandas:
-- Data loading & exploration
-- Indexing & selection
-- Grouping & aggregation
-- Data cleaning
-
----
-
-## 📊 Datasets
-
-Datasets are not included due to size limitations.
-
-You can download them from:
-- https://www.kaggle.com/datasets/zynicide/wine-reviews
-- https://www.kaggle.com/datasets/datasnaek/youtube-new
-
-After downloading, place them inside the `datasets` folder.
-
----
-
-## 🚀 Goal
-
-To build strong fundamentals in Data Analysis and transition into a Data Analyst role.
-
----
-
-## 🛠️ Tools Used
-- Python
-- Pandas
-- Jupyter Notebook
+##  Note:
+Some datasets are large and are not uploaded.  
+Please check dataset folders for download links.
